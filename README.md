@@ -31,4 +31,5 @@ In your solution you must provide the following in your Github link account:
 - UML Class Diagram
 - Uploaded java codes for the solution.
 
-![alt text](<UML_Observer.png>)
+![UML CLASS DIAGRAM Observer Pattern](https://github.com/user-attachments/assets/330216a2-0a53-4b8c-81ad-f7b8f700f7b6)
+
